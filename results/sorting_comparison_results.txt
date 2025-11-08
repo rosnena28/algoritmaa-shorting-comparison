@@ -1,0 +1,28 @@
+HASIL PERBANDINGAN ALGORITMA SORTING
+==================================================
+Tanggal Test: 2025-11-04 07:50:21
+
+
+DATA SIZE: 1,000
+----------------------------------------
+Selection Sort  : 49.56 ms        | Completed
+Bubble Sort     : 101.99 ms       | Completed
+Quick Sort      : 2.32 ms         | Completed
+Merge Sort      : 4.24 ms         | Completed
+Heap Sort       : 8.18 ms         | Completed
+
+DATA SIZE: 10,000
+----------------------------------------
+Selection Sort  : Skipped         | Skipped (too slow)
+Bubble Sort     : Skipped         | Skipped (too slow)
+Quick Sort      : 42.63 ms        | Completed
+Merge Sort      : 157.87 ms       | Completed
+Heap Sort       : 84.8 ms         | Completed
+
+DATA SIZE: 50,000
+----------------------------------------
+Selection Sort  : Skipped         | Skipped (too slow)
+Bubble Sort     : Skipped         | Skipped (too slow)
+Quick Sort      : 219.52 ms       | Completed
+Merge Sort      : 306.56 ms       | Completed
+Heap Sort       : 401.7 ms        | Completed
